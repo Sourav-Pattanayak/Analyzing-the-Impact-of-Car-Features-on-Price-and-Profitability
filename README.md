@@ -1,2 +1,2 @@
 # Analyzing-the-Impact-of-Car-Features-on-Price-and-Profitability
-Optimizing car manufacturing decisions through data analysis and an interactive Excel dashboard for pricing and product development.
+In this project, I aim to optimize a car manufacturer's pricing and product development decisions. Using data analysis and an interactive Excel dashboard, I'll explore factors like car popularity by market category, the relationship between engine power and price, influential features on pricing, average prices by manufacturer, and the connection between fuel efficiency and engine cylinders. The dashboard will help answer key questions and guide decision-making in the automotive industry.
